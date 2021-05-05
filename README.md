@@ -4,6 +4,7 @@ Versão 0.1 ### Use o Pygame
 ### start of code ###
 
 import pygame
+
 import random
 
 
